@@ -1,4 +1,4 @@
-logga
+LOGGA
 =====
 
 Logga - the most gangsta Android logger :)
@@ -17,7 +17,12 @@ Outputa:
 
 Set debugga on and off:
 
-```private static final boolean DEBUGGA = true;```
+```private static final boolean DEBUGGA = true; // logga enabled```
 
-## INSPIRATIA ##
+```private static final boolean DEBUGGA = false; // logga disabled```
+
+## Where is libba? ##
+Just copy/paste the Logga.java file into your project, no need for a big lib project for such a small code snippa :)
+
+## Inspiratia ##
 http://stackoverflow.com/a/17677941/1026306
